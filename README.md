@@ -8,7 +8,9 @@ I build websites, e-commerce stores, web applications, and custom digital platfo
 
 ## Who I Am
 
-I'm an Estonian web developer and founder. I create practical, business-focused digital products: fast marketing sites, online stores, custom web applications, and SaaS platforms. I work with clients who need a developer who understands both code and business outcomes. I also build and run my own products.
+I'm an Estonian web developer and founder. I create practical, business-focused digital products: fast marketing sites, online stores, custom web applications, and SaaS platforms.
+
+I work with clients who need a developer who understands both code and business outcomes. I also build and run my own products.
 
 ---
 
@@ -26,11 +28,13 @@ I'm an Estonian web developer and founder. I create practical, business-focused 
 
 ### [Rahanetis](https://rahanetis.ee)
 
-My web development platform and professional brand. Rahanetis is where I share my work, offer services for websites and e-commerce, and publish content on building fast sites, online stores, and internet businesses. Built with Next.js, Astro, and Cloudflare.
+My web development platform and professional brand. Where I share my work, offer services for websites and e-commerce, and publish content on building fast sites, online stores, and internet businesses.
+
+Built with Next.js, Astro, and Cloudflare.
 
 ### [Tipi](https://tipi.ee)
 
-A creator monetization platform for streamers and content creators. Tipi helps creators earn through tips and donations—simple, reliable, built for the Estonian and broader creator economy.
+A creator monetization platform for streamers and content creators. Helps creators earn through tips and donations—simple, reliable, built for the Estonian and broader creator economy.
 
 ---
 
